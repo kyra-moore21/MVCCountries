@@ -1,0 +1,14 @@
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\bin\Debug\net8.0\MVCCountries.exe
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\bin\Debug\net8.0\MVCCountries.deps.json
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\bin\Debug\net8.0\MVCCountries.runtimeconfig.json
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\bin\Debug\net8.0\MVCCountries.dll
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\bin\Debug\net8.0\MVCCountries.pdb
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\MVCCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\MVCCountries.AssemblyInfoInputs.cache
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\MVCCountries.AssemblyInfo.cs
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\MVCCountries.csproj.CoreCompileInputs.cache
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\MVCCountries.dll
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\refint\MVCCountries.dll
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\MVCCountries.pdb
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\MVCCountries.genruntimeconfig.cache
+C:\Users\kyram\source\repos\MVCCountries\MVCCountries\obj\Debug\net8.0\ref\MVCCountries.dll
